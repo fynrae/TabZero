@@ -7,7 +7,7 @@ A nice little and simple command palette for your browser. Navigate, search, and
 
 I can't provide you the .xpi file you need to install the extension, addons right now. But what you can do is to use the `.zip` file release from the release, and temporarily install the extension, addons
 
-# How to use
+# Usage
 
 - `Alt + Space` to open the prompt
 - `n` - Opens a new tab, not focus on the new tab
